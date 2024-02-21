@@ -1,0 +1,1 @@
+import{S as r}from"./sweetalert2.all-cno0K6ji.js";const i=(o,t)=>{r.fire({title:o,text:t,icon:"error"})},s=r.mixin({toast:!0,position:"top-end",timer:2e3,timerProgressBar:!0,showConfirmButton:!1}),n=(o="成功")=>{s.fire({icon:"success",title:o})};export{i as e,n as t};

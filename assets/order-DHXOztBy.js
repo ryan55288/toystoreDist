@@ -1,0 +1,1 @@
+import{H as a,q as d,y as c}from"./index-b0eYXTGv.js";const n=a("order",()=>{const r=d({orderList:[]}),e=o=>{const s={...o};r.orderList.push(s)},t=c(()=>r.orderList);return{orderState:r,getOrderList:t,addOrderHandle:e}},{persist:[{paths:["orderState"],storage:localStorage}]});export{n as u};
